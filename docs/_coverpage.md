@@ -1,7 +1,7 @@
-<div class="cover-main"><img width="180px" src="pic/home.jpeg">
+<div class="cover-main"><img width="1000px" style="opacity: 0.1;" src="assets/pic/lxq.jpg">
 
 <h1 id="DSM Documenet">
-<a><span>DSM  -  Your Docs Protector</span></a></h1>
+<a><span>Ginsco Doc</span></a></h1>
 
 ![](assets/svg/version-v3.1.x-green.svg) ![](assets/svg/author-Ginscoo-orange.svg) ![](assets/svg/license-Secsmart-blue.svg)
 

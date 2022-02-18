@@ -1,4 +1,2 @@
-* [Server](/server/)
-* [Windows](/windows/)              
-* [macOS](/macOS/) 
-* [linux](/linux/)
+* [Linux](/linux/)
+* [Java](/java/)              
